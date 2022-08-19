@@ -1,2 +1,2 @@
 # Rays_BigChops-backend
-Backend/API
+Backend/Server
